@@ -1,1 +1,3 @@
-my third git file
+my third git filegit stataus added
+hi hr u
+i want to learn git 
